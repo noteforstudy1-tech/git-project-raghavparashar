@@ -11,3 +11,7 @@ I am a student at UGSOT,currently learning Git and GitHub.
 ## Projects
 - hello: one line about it
 - hi: one line about IT
+
+## Social Links
+- gittiti
+- linkiwinkislinky
